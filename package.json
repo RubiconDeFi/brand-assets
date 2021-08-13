@@ -1,0 +1,24 @@
+{
+  "name": "brand-assets",
+  "version": "1.0.0",
+  "description": "Official logos and brand assets for Rubicon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubiconDeFi/brand-assets.git"
+  },
+  "keywords": [
+    "Rubicon",
+    "assets",
+    "branding"
+  ],
+  "author": "Rubicon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubiconDeFi/brand-assets/issues"
+  },
+  "homepage": "https://github.com/RubiconDeFi/brand-assets#readme"
+}
